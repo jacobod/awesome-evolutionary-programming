@@ -6,7 +6,9 @@ Curated list of resources for genetic and evolutionary programming
 - [Distributed Evolutionary Algorithms in Python (DEAP)](https://github.com/DEAP/deap)
 - [gplearn](https://github.com/trevorstephens/gplearn)
 - [pyvolution (limited documenation)](https://github.com/inspectorG4dget/Genetic-Framework)
-- [ecspy](https://pypi.org/project/ecspy/, https://pythonhosted.org/ecspy/index.html)
+- [ecspy](https://pypi.org/project/ecspy/)
+- [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)
+- [pyeasyga](https://github.com/remiomosowon/pyeasyga)
 
 ## R Libraries
 - [gramEvol](https://cran.r-project.org/web/packages/gramEvol/index.html)
@@ -19,13 +21,14 @@ Curated list of resources for genetic and evolutionary programming
 - [Using Genetic Programming to evolve Trading Strategies](http://www.turingfinance.com/using-genetic-programming-to-evolve-security-analysis-decision-trees/)
 - [Symbolic Regression, Genetic Programming… or if Kepler had R](https://www.r-bloggers.com/symbolic-regression-genetic-programming-or-if-kepler-had-r/)
 - [Learning Machines - Evolution works!](http://blog.ephorie.de/evolution-works)
+- [Simple Genetic Algorithm From Scratch in Python](https://machinelearningmastery.com/simple-genetic-algorithm-from-scratch-in-python/)
 
 ## Courses
 - [Evolutionary Computation with Jupyter/IPython](https://github.com/lmarti/evolutionary-computation-course)
 
 ## Books
 - [Field Guide to Genetic Programming](http://www.gp-field-guide.org.uk/)
-
+- [An Introduction to Genetic Algorithms by Melanie Mitchell](http://cognet.mit.edu/book/introduction-to-genetic-algorithms)
 
 ## Theory
 - [Genetic Programming](http://geneticprogramming.com/)
