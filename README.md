@@ -36,6 +36,7 @@ Curated list of resources for genetic and evolutionary programming
 
 ## Podcasts
 - [Data Skeptic- Evolutionary Computation](https://dataskeptic.com/blog/episodes/2018/evolutionary-computation)
+- [Evolutionary.AI Podcast Series](https://evolution.ml/podcasts/)
 
 ## In the News
 - [MIT Tech Review: Evolutionary algorithm outperforms deep-learning machines at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)
