@@ -25,6 +25,7 @@ Curated list of resources for genetic and evolutionary programming
 
 ## Courses
 - [Evolutionary Computation with Jupyter/IPython](https://github.com/lmarti/evolutionary-computation-course)
+- [MIT Lecture, Prof. Patrick Winston](https://podcasts.apple.com/us/podcast/lecture-13-learning-genetic-algorithms/id765641080?i=1000194473730)
 
 ## Books
 - [Field Guide to Genetic Programming](http://www.gp-field-guide.org.uk/)
@@ -32,6 +33,9 @@ Curated list of resources for genetic and evolutionary programming
 
 ## Theory
 - [Genetic Programming](http://geneticprogramming.com/)
+
+## Podcasts
+- [Data Skeptic- Evolutionary Computation](https://dataskeptic.com/blog/episodes/2018/evolutionary-computation)
 
 ## In the News
 - [MIT Tech Review: Evolutionary algorithm outperforms deep-learning machines at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)
